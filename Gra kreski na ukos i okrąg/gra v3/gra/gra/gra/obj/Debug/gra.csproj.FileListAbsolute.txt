@@ -1,0 +1,27 @@
+D:\Users\Spidi\Desktop\Studia\Michał\semestr 4\Sieci\projekt\gra\gra\gra\bin\Debug\gra.exe.config
+D:\Users\Spidi\Desktop\Studia\Michał\semestr 4\Sieci\projekt\gra\gra\gra\bin\Debug\gra.exe
+D:\Users\Spidi\Desktop\Studia\Michał\semestr 4\Sieci\projekt\gra\gra\gra\bin\Debug\gra.pdb
+D:\Users\Spidi\Desktop\Studia\Michał\semestr 4\Sieci\projekt\gra\gra\gra\obj\Debug\gra.csprojResolveAssemblyReference.cache
+D:\Users\Spidi\Desktop\Studia\Michał\semestr 4\Sieci\projekt\gra\gra\gra\obj\Debug\gra.Form1.resources
+D:\Users\Spidi\Desktop\Studia\Michał\semestr 4\Sieci\projekt\gra\gra\gra\obj\Debug\gra.Properties.Resources.resources
+D:\Users\Spidi\Desktop\Studia\Michał\semestr 4\Sieci\projekt\gra\gra\gra\obj\Debug\gra.csproj.GenerateResource.Cache
+D:\Users\Spidi\Desktop\Studia\Michał\semestr 4\Sieci\projekt\gra\gra\gra\obj\Debug\gra.exe
+D:\Users\Spidi\Desktop\Studia\Michał\semestr 4\Sieci\projekt\gra\gra\gra\obj\Debug\gra.pdb
+D:\Desktop\studia\semestr 4\Sieci\projekt\stacjonarka 2\stacjonarka\gra\gra\gra\bin\Debug\gra.exe.config
+D:\Desktop\studia\semestr 4\Sieci\projekt\stacjonarka 2\stacjonarka\gra\gra\gra\bin\Debug\gra.exe
+D:\Desktop\studia\semestr 4\Sieci\projekt\stacjonarka 2\stacjonarka\gra\gra\gra\bin\Debug\gra.pdb
+D:\Desktop\studia\semestr 4\Sieci\projekt\stacjonarka 2\stacjonarka\gra\gra\gra\obj\Debug\gra.csprojResolveAssemblyReference.cache
+D:\Desktop\studia\semestr 4\Sieci\projekt\stacjonarka 2\stacjonarka\gra\gra\gra\obj\Debug\gra.Form1.resources
+D:\Desktop\studia\semestr 4\Sieci\projekt\stacjonarka 2\stacjonarka\gra\gra\gra\obj\Debug\gra.Properties.Resources.resources
+D:\Desktop\studia\semestr 4\Sieci\projekt\stacjonarka 2\stacjonarka\gra\gra\gra\obj\Debug\gra.csproj.GenerateResource.Cache
+D:\Desktop\studia\semestr 4\Sieci\projekt\stacjonarka 2\stacjonarka\gra\gra\gra\obj\Debug\gra.exe
+D:\Desktop\studia\semestr 4\Sieci\projekt\stacjonarka 2\stacjonarka\gra\gra\gra\obj\Debug\gra.pdb
+D:\Desktop\studia\semestr 4\Sieci\projekt\stacjonarka 2\stacjonarka\gra v3\gra\gra\gra\bin\Debug\gra.exe.config
+D:\Desktop\studia\semestr 4\Sieci\projekt\stacjonarka 2\stacjonarka\gra v3\gra\gra\gra\bin\Debug\gra.exe
+D:\Desktop\studia\semestr 4\Sieci\projekt\stacjonarka 2\stacjonarka\gra v3\gra\gra\gra\bin\Debug\gra.pdb
+D:\Desktop\studia\semestr 4\Sieci\projekt\stacjonarka 2\stacjonarka\gra v3\gra\gra\gra\obj\Debug\gra.csprojResolveAssemblyReference.cache
+D:\Desktop\studia\semestr 4\Sieci\projekt\stacjonarka 2\stacjonarka\gra v3\gra\gra\gra\obj\Debug\gra.Form1.resources
+D:\Desktop\studia\semestr 4\Sieci\projekt\stacjonarka 2\stacjonarka\gra v3\gra\gra\gra\obj\Debug\gra.Properties.Resources.resources
+D:\Desktop\studia\semestr 4\Sieci\projekt\stacjonarka 2\stacjonarka\gra v3\gra\gra\gra\obj\Debug\gra.csproj.GenerateResource.Cache
+D:\Desktop\studia\semestr 4\Sieci\projekt\stacjonarka 2\stacjonarka\gra v3\gra\gra\gra\obj\Debug\gra.exe
+D:\Desktop\studia\semestr 4\Sieci\projekt\stacjonarka 2\stacjonarka\gra v3\gra\gra\gra\obj\Debug\gra.pdb
